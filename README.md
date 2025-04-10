@@ -17,7 +17,7 @@ Preencha aqui a URL para acesso ao site publicado
 
 #### Desenvolvedor(a)
 
-Preencha aqui seu nome
+Rodrigo Appelt
 
 
 #### Ambiente de desenvolvimento
